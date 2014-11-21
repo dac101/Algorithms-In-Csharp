@@ -1,0 +1,6 @@
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.exe.config
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.exe
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.pdb
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.csprojResolveAssemblyReference.cache
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.exe
+c:\users\dacorie\documents\visual studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.pdb
