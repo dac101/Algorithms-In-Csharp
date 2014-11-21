@@ -5,6 +5,6 @@ This project show's you how to use different algorithms.The application is devel
 
 Algorithms In The Project:
 Insertion Sort
-Selection Sort
-Shell Sort 
+,Selection Sort
+,Shell Sort 
 
