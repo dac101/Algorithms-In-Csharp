@@ -85,5 +85,28 @@ namespace AlgothrimDevelopment
                 if (Less(a[i], a[i - 1])) return false;
             return true;
         }
+        
+        
+             static List<int> check_duplicate(List<int> arrayb, List<int> arrayA)
+        {
+            //Question 8 
+            List<int> commonElmentsArray = new List<int>();
+            foreach (int itemAInt in arrayb)
+            {
+
+
+                foreach (int itemBInt in arrayA)
+                {
+                    if (itemAInt == itemBInt)
+                    {
+                        commonElmentsArray.Add(itemAInt);
+                        break;
+                    }
+
+                }
+            }
+
+            return commonElmentsArray;
+        }
     }
 }
